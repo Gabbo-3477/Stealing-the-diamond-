@@ -53,7 +53,7 @@ if prima_risposta=="1":
       print("L' AREOPLANINO STA TORNANDO INDIERO, E CON ALL'INTERNO IL DIAMANTE!")
     elif risposta_operazione=="2":
       print()
-      print("Prendi in mano la bomba per colpire le guarde ma accidentalmente ti cade per terra facendo esplodere l'intero edifio, te compreso.")
+      print("Prendi in mano la bomba per colpire le guarde ma accidentalmente ti cade per terra facendo esplodere l'intero edificio, te compreso.")
       print()
     elif risposta_operazione=="3":
       print()
@@ -64,7 +64,7 @@ if prima_risposta=="1":
       print()
       print("1. Spari alla guardia inginocchiata a terra ad aiutare il compagno")
       print("2. Scappi nell'altra stanza")
-      print("3. Sapendo che il fucile sarà probabilmente scarico, decidi di lanciarlo a o di lancia contro la restante guardia:")
+      print("3. Sapendo che il fucile sarà probabilmente scarico, decidi di lanciarlo a mo di lancia contro la restante guardia:")
       risposta_fucile=input()
       if risposta_fucile=="1":
         print()
@@ -91,7 +91,7 @@ if prima_risposta=="1":
     print("Tra cui:")
     print()
     print("1. Prendi un manico di scopa")
-    print("2. Prendi un secco di acqua e sapone")
+    print("2. Prendi un secchio di acqua e sapone")
     print("3. Utilizzi uno sgabello per salire nei condotti di eareazione")
     risposta_secondaria2=input()
     print()
@@ -151,7 +151,7 @@ if prima_risposta=="1":
           print("Lo vedi è proprio sotto di te.")
           print("Sviti la grata e ti cali all'interno della stanza.")
           print("Con il naso direttamente sopra il diamante, decidi con uno scatto felino di afferrare il gioiello e, tramite i trampoli raggiungere nuovamente il bocchettone del condotto, per uscire sano e salvo con il tuo diamante da un milione di euro.")
-        elif risposta_secondria5=="3":
+        elif risposta_secondaria5=="3":
           print()
           print("Ti trovi in un condotto che sembra non finire più, ad un certo punto, vedi finalmente la luce infondo al tunnen e abbagliato da quest'ultima incominci a correre verso l'uscita...")
           input()
